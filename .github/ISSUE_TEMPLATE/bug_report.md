@@ -1,34 +1,38 @@
-name: Bug Report
-description: Report a reproducible bug or crash in the Eaglercraft 1.21.4 workspace.
-title: "[Bug] "
-labels: [bug]
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
 assignees: mil1dude
 
-body:
-  - type: textarea
-    attributes:
-      label: What happened?
-      description: Describe what went wrong. Include logs, errors, screenshots if possible.
-    validations:
-      required: true
+---
 
-  - type: textarea
-    attributes:
-      label: Steps to reproduce
-      description: Provide a step-by-step guide to reproduce the issue.
-    validations:
-      required: true
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-  - type: input
-    attributes:
-      label: Browser and Platform
-      description: e.g., Chrome 124 / Firefox 127 / OS / mobile / desktop etc.
-    validations:
-      required: true
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-  - type: textarea
-    attributes:
-      label: Additional information
-      description: Any other context, log files, or code snippets.
-    validations:
-      required: false
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.

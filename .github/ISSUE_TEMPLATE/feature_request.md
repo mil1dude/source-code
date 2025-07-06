@@ -1,27 +1,20 @@
-name: Feature Request
-description: Suggest an improvement or enhancement for the Eaglercraft 1.21.4 workspace.
-title: "[Feature] "
-labels: [enhancement]
-assignees: mil1dude
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: enhancement
+assignees: ''
 
-body:
-  - type: textarea
-    attributes:
-      label: What do you want to see?
-      description: Describe the feature or enhancement you'd like to see added.
-    validations:
-      required: true
+---
 
-  - type: textarea
-    attributes:
-      label: Why is it useful?
-      description: Explain how this feature helps users or improves the project.
-    validations:
-      required: true
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-  - type: textarea
-    attributes:
-      label: Additional context
-      description: Add any other relevant context, references, or mockups.
-    validations:
-      required: false
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
