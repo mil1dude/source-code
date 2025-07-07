@@ -3,6 +3,8 @@
 🚧 **Warning: Work in Progress**  
 This is an experimental workspace aiming to port **Minecraft 1.21.4** to **EaglercraftJS/WASM-GC**, enabling it to run directly in modern web browsers.
 
+**There will only be updates to this repo at least once a week because I do my stuff mostly locally. If you want to see the current stauts look at my webape: [Eaglercraft Client Collection](https://eaglercraft.42web.io/)**
+
 > ⚠️ This version is **not playable yet**. Only the base source code is available.  
 > ❌ **Forge mod support is not planned** due to deep engine changes.
 
